@@ -12,37 +12,18 @@ The insights from the extracted data were later visualized using the popular dat
 
 Here's the link to the Tableau Dashboard for the scraped data: Earthquake Data Tableau Dashboard (7 Sheets)
 
+
+## CSV File (Data Example):
+
 | Serial        | Date           | Month  | Year        | Time (GMT)	  | Latitude (N)  | Longitude (E) | Magnitude  | Location                           | Country        |
 | ------------- |:--------------:|:------:|:-----------:|:-------------:|:-------------:|:-------------:|:----------:|:----------------------------------:| --------------:|	
 | 0             |Nov 25, 2021	   |November|2021	        |23:45          |22.81          |	93.5248       |6.2         |Myanmar (Burma): 19 Km SW of Falam	| Myanmar        |
 | 1             |Apr 28, 2021	   |April   |2021	        |2:24           |26.75          |	92.42         |6           |Northeastern India                	| India          |
 | 2             |Oct 10, 2020	   |October |2020	        |17:38	        |24.56	        |93.58	        |5.4	       |Myanmar-India Border Region	        |Myanmar-India Border|
-|3	            |Aug 30, 2020	   |August	|2020	        |1:47	          |23.4098	      |92.0087	      |5.1	       |33 Km N of Khagrachhari	            |Bangladesh|
-
-| 3             |Nov 25, 2021	   |November|2021	        |23:45          |22.81          |	93.5248       |6.2         |Myanmar (Burma): 19 Km SW of Falam	| Myanmar        |
-| 4             |Nov 25, 2021	   |November|2021	        |23:45          |22.81          |	93.5248       |6.2         |Myanmar (Burma): 19 Km SW of Falam	| Myanmar        |
-| 5             |Nov 25, 2021	   |November|2021	        |23:45          |22.81          |	93.5248       |6.2         |Myanmar (Burma): 19 Km SW of Falam	| Myanmar        |
-
-2	Oct 10, 2020	October	2020	17:38	24.56	93.58	5.4	Myanmar-India Border Region	Myanmar-India Border
-
-
-| ------------- |:--------------:|:------:|:-----------:|:-------------:|:-------------:|:-------------:|:----------:|:---------:| --------------:|
-| ------------- |:--------------:|:------:|:-----------:|:-------------:|:-------------:|:-------------:|:----------:|:---------:| --------------:|
-| ------------- |:--------------:|:------:|:-----------:|:-------------:|:-------------:|:-------------:|:----------:|:---------:| --------------:|
-| ------------- |:--------------:|:------:|:-----------:|:-------------:|:-------------:|:-------------:|:----------:|:---------:| --------------:|
-| ------------- |:--------------:|:------:|:-----------:|:-------------:|:-------------:|:-------------:|:----------:|:---------:| --------------:|
-| ------------- |:--------------:|:------:|:-----------:|:-------------:|:-------------:|:-------------:|:----------:|:---------:| --------------:|
+| 3	            |Aug 30, 2020	   |August	|2020	        |1:47	          |23.4098	      |92.0087	      |5.1	       |33 Km N of Khagrachhari	            |Bangladesh|
+| 4             |Aug 27, 2020	   |August	|2020	        |12:07          |23.06          |93.29          |5.3         |Myanmar-India Border Region         |Myanmar-India Border|
+| 5             |Jun 21, 2020	   |June    |2020         |22:40          |23.15          |93.32          |5.5         |Myanmar-India Border Region	        |Myanmar-India Border|
 
 
 
 
-Serial	Date	Month	Year	Time (GMT)	Latitude (N)	Longitude (E)	Magnitude	Location	Country
-0	Nov 25, 2021	November	2021	23:45	22.81	93.5248	6.2	Myanmar (Burma): 19 Km SW of Falam	Myanmar
-1	Apr 28, 2021	April	2021	2:24	26.75	92.42	6	Northeastern India	India
-2	Oct 10, 2020	October	2020	17:38	24.56	93.58	5.4	Myanmar-India Border Region	Myanmar-India Border
-
-3	Aug 30, 2020	August	2020	1:47	23.4098	92.0087	5.1	33 Km N of Khagrachhari	Bangladesh
-
-4	Aug 27, 2020	August	2020	12:07	23.06	93.29	5.3	Myanmar-India Border Region	Myanmar-India Border
-
-5	Jun 21, 2020	June	2020	22:40	23.15	93.32	5.5	Myanmar-India Border Region	Myanmar-India Border

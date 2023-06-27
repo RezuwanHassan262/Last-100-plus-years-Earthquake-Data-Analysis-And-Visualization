@@ -1,4 +1,4 @@
-# Last-100-years-Earthquake-Data-Analysis
+# Last-100-plus-years-Earthquake-Data-Analysis
 Here, I did some data analysis using the last 100+ years of Earthquake data covering South Asia and Bangladesh region
 
 This was a web scraping project along with dashboard visualization on Tableau.
@@ -28,13 +28,17 @@ Here's the link to the Tableau Dashboard for the scraped data: Earthquake Data T
 ## Findings and Observations from the Dashboard
 
 1. The highest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 7.2 in magnitude on 8th July, 1918. It took place in Bangladesh.
-2. The lowest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 5 in magnitude which took place in multiple regions of BINM, But mostly in India and India-Bangladesh border.
-3. Lowest Earthquake that took place in the last hundred years was 7.2 magnitudes in Bangladesh
-4. No Earthquake ever took place in October in Bangladesh
-5. Premier League of England had the most business in this transfer window with 138 incomings averaging transfer fee €21.98m per player and €3.3b in total.
-6. The players age has relation with their transfer fee, market value and their movement in the market. Players within the age of (21-25) have the most demand.
-7. The most popular position were Center Forward with 386 total bought of this position. 2nd were Center Back.
-8. In terms of nationality Latin American players were very demanding in this transfer window. Brazil had 97 players in the transfer window signing for various clubs.
-9. Europes top 5 league had two signings that stood out from the rest of them in the scatterplot. Erling Haaland (As a bargain €90m less than the market price) and Enzo Fernandez (Most overpaid with €66m paid more than the market price).
-
-
+2. The lowest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 5 in magnitude which took place in multiple regions of BINM, But mostly in India and India-Bangladesh border region.
+3. The greatest number of earthqquakes took place in India (49 in total)
+4. The lowest number of earthquakes took place in Bhutan and MyanmarBangladesh border region (Both 1).
+5. In the Bangladesh region, There were respectively 22, 7, & 1 earthquakes in Bangladesh-India border region, bangladesh and Bangladesh-Myanmar border region.
+6. In BINM region, earthquakes mostly took place in February, September & December. All 7 in number and all in India.
+7. In Bangladesh region, earthquakes mostly took place in November in India-Bangladesh border region. 4 in quantity.
+8. In BINM region, maximum number of earthquakes took place in November. 13 in total.
+9. In Bangladesh region, maximum number of earthquakes took place in July & November Both 5 in quantity.
+10. In BINM region, Earthquakes mostly took place around 20.00 GMT, All in India.
+11. In Bangladesh region, Earthquakes mostly took place around 7.00 GMT & 11.00 GMt, All in India-Bangladesh border region.
+12. In BINM region, Earthquakes mostly took place in 2nd day of the month, 6 in total.
+13. In Bangladesh region, Earthquakes mostly took place in 7th day of the month, 3 in total.
+14. Location-wise, In BINM region Earthquakes mostly took place in India-Bangladesh border region (22), then Assam (21) and then Myanmar-India border region (17).
+15. Country-wise, In the BINM region, The name of the countries and the number of total earthquakes since 1918 are India (49), Myanmar (14), Bangladesh (7) & Bhutan (1).

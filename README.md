@@ -15,6 +15,8 @@ Here's the link to the Tableau Dashboard for the scraped data: Earthquake Data T
 
 ## CSV File (Data Example):
 
+CSV file link: File](https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis/blob/main/EarthquakeData.csv)
+
 | Serial        | Date           | Day    | Month  | Year        | Time (GMT)	  | Latitude (N)  | Longitude (E) | Magnitude  | Location                           | Country              |
 | ------------- |:--------------:|:-------|:------:|:-----------:|:------------:|:-------------:|:-------------:|:----------:|:----------------------------------:| --------------------:|	
 | 0             |Nov 25, 2021	   |25      |November|2021	       |23:45         |22.81          |	93.5248       |6.2         |Myanmar (Burma): 19 Km SW of Falam	| Myanmar              |
@@ -27,18 +29,18 @@ Here's the link to the Tableau Dashboard for the scraped data: Earthquake Data T
 
 ## Findings and Observations from the Dashboard
 
-1. The highest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 7.2 in magnitude on 8th July, 1918. It took place in Bangladesh.
+1. The highest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 7.2 in magnitude on 8th July 1918. It took place in Bangladesh.
 2. The lowest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 5 in magnitude which took place in multiple regions of BINM, But mostly in India and India-Bangladesh border region.
-3. The greatest number of earthqquakes took place in India (49 in total)
-4. The lowest number of earthquakes took place in Bhutan and MyanmarBangladesh border region (Both 1).
-5. In the Bangladesh region, There were respectively 22, 7, & 1 earthquakes in Bangladesh-India border region, bangladesh and Bangladesh-Myanmar border region.
+3. The greatest number of earthquakes took place in India (49 in total)
+4. The lowest number of earthquakes took place in Bhutan and Myanmar-Bangladesh border regions (Both 1).
+5. In the Bangladesh region, There were respectively 22, 7, & 1 earthquakes in the Bangladesh-India border region, Bangladesh, and Bangladesh-Myanmar border region.
 6. In BINM region, earthquakes mostly took place in February, September & December. All 7 in number and all in India.
-7. In Bangladesh region, earthquakes mostly took place in November in India-Bangladesh border region. 4 in quantity.
-8. In BINM region, maximum number of earthquakes took place in November. 13 in total.
-9. In Bangladesh region, maximum number of earthquakes took place in July & November Both 5 in quantity.
+7. In Bangladesh region, earthquakes mostly took place in November in the India-Bangladesh border region. 4 in quantity.
+8. In BINM region, a maximum number of earthquakes took place in November. 13 in total.
+9. In Bangladesh region, a maximum number of earthquakes took place in July & November Both 5 in quantity.
 10. In BINM region, Earthquakes mostly took place around 20.00 GMT, All in India.
-11. In Bangladesh region, Earthquakes mostly took place around 7.00 GMT & 11.00 GMt, All in India-Bangladesh border region.
-12. In BINM region, Earthquakes mostly took place in 2nd day of the month, 6 in total.
-13. In Bangladesh region, Earthquakes mostly took place in 7th day of the month, 3 in total.
-14. Location-wise, In BINM region Earthquakes mostly took place in India-Bangladesh border region (22), then Assam (21) and then Myanmar-India border region (17).
+11. In Bangladesh region, Earthquakes mostly took place around 7.00 GMT & 11.00 GMt, All in the India-Bangladesh border region.
+12. In BINM region, Earthquakes mostly took place on the 2nd day of the month, 6 in total.
+13. In Bangladesh region, Earthquakes mostly took place on the 7th day of the month, 3 in total.
+14. Location-wise, In BINM region Earthquakes mostly took place in the India-Bangladesh border region (22), then Assam (21), and then the Myanmar-India border region (17).
 15. Country-wise, In the BINM region, The name of the countries and the number of total earthquakes since 1918 are India (49), Myanmar (14), Bangladesh (7) & Bhutan (1).

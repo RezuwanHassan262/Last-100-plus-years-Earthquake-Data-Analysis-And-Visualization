@@ -1,4 +1,4 @@
-# Last-100-plus-years-Earthquake-Data-Analysis
+# Last 100+ years Bangladesh-India-Nepal-Myanmar(BINM) region's Earthquake Data Analysis
 Here, I did some data analysis using the last 100+ years of Earthquake data covering South Asia and Bangladesh region
 
 This was a web scraping project along with dashboard visualization on Tableau.

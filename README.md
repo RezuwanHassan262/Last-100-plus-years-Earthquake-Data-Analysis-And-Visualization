@@ -37,8 +37,8 @@ CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Ea
 ![Regionwise Earthquake occurance frequency over time in the last 100+ years.png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis/main/Regionwise%20Earthquake%20occurance%20frequency%20over%20time%20in%20the%20last%20100%2B%20years.png)
 
 3. The greatest number of earthquakes took place in India (49 in total)
-4. The lowest number of earthquakes took place in Bhutan and Myanmar-Bangladesh border regions (Both 1).
-5. In the Bangladesh region, There were respectively 22, 7, & 1 earthquakes in the Bangladesh-India border region, Bangladesh, and Bangladesh-Myanmar border region.
+4. In the Bangladesh region, There were respectively 22, 7, & 1 earthquakes in the Bangladesh-India border region, Bangladesh, and Bangladesh-Myanmar border region.
+5. The lowest number of earthquakes took place in Bhutan and Myanmar-Bangladesh border regions (Both 1).
 
 ![Region wise Earthquake occurance frequency over time in the last 100+ years monthly categorized.png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis/main/Region%20wise%20Earthquake%20occurance%20frequency%20over%20time%20in%20the%20last%20100%2B%20years%20monthly%20categorized.png)
 

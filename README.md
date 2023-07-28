@@ -80,8 +80,29 @@ CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Ea
 ## Run Locally:
 
 1. Clone the repository
+
 ```
-https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Scraping-Analysis-And-Visualization.git
+git clone https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Scraping-Analysis-And-Visualization
 ```
-2. 
-3. 
+
+2. Go to the project directory
+
+```
+cd Last-100-plus-years-Earthquake-Data-Scraping-Analysis-And-Visualization
+```
+
+3. Initialize and activate Virtual Environment
+
+```
+virtualenv --no-site-packages  venv
+source venv/bin/activate
+```
+
+4. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+ 5. The csv file named 'EarthquakeData.csv' will be generated within the project directory.
+
+

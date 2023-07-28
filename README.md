@@ -82,13 +82,13 @@ CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Ea
 1. Clone the repository
 
 ```
-git clone https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Scraping-Analysis-And-Visualization
+git clone https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization
 ```
 
 2. Go to the project directory
 
 ```
-cd Last-100-plus-years-Earthquake-Data-Scraping-Analysis-And-Visualization
+cd Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization
 ```
 
 3. Initialize and activate Virtual Environment

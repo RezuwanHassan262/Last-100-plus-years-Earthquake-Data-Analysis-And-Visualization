@@ -30,7 +30,7 @@ CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Ea
 ## Findings and Observations from the Dashboard
 
 ![Earthquake magnitude over time in the last 100+ years.png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Scraping-Analysis-And-Visualization/main/dashboard%20images/Earthquake%20magnitude%20over%20time%20in%20the%20last%20100%2B%20years.png) 
-[Dashboard Link](https://public.tableau.com/app/profile/md.reuzwan.hassan/viz/Last100yearsEarthquakeData-Analysis/TotalEarthquakeinBangladeshIndiaNepalMyanmarBINMsub-regionMap).
+[Dashboard Link](https://public.tableau.com/app/profile/md.reuzwan.hassan/viz/Last100yearsEarthquakeData-Analysis/Earthquakemagnitudeovertimeinthelast100years).
 
 1. The highest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 7.2 in magnitude on 8th July 1918. It took place in Bangladesh.
 2. The lowest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 5 in magnitude which took place in multiple regions of BINM, But mostly in India and India-Bangladesh border region.

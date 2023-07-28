@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.2
+DateTime==5.2
+numpy==1.25.0
+pandas==2.0.2
+requests==2.31.0
+urllib3==1.26.16

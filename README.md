@@ -75,3 +75,13 @@ CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Ea
 [Dashboard Link](https://public.tableau.com/views/Last100yearsEarthquakeData-Analysis/TotalEarthquakeinBangladeshIndiaNepalMyanmarBINMsub-regionMap?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 15. Country-wise, In the BINM region, The name of the countries and the number of total earthquakes since 1918 are India (49), Myanmar (14), Bangladesh (7) & Bhutan (1).
+
+
+## Run Locally:
+
+1. Clone the repository
+```
+https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Scraping-Analysis-And-Visualization.git
+```
+2. 
+3. 

@@ -109,7 +109,7 @@ pip install -r requirements.txt
 python Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/scraper.py 
 ```
 
-
+6. A pandas DataFrame will be generated containing all the relevant data in a tabular format from the website.
 
     
 

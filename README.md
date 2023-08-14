@@ -109,8 +109,6 @@ pip install -r requirements.txt
 python Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/scraper.py 
 ```
 
-6. The CSV file named 'EarthquakeData.csv' will be generated within the project directory.
-
 
 
     

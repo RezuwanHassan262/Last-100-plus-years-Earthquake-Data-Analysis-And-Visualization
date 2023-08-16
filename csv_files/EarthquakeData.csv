@@ -1,112 +1,111 @@
 Date,Day,Month,Year,Time (GMT),Latitude (N),Longitude (E),Magnitude,Location,Country
-2023-06-16,16,June,2023,04:46,24.7503,92.0418,5.0, Near Shillong,India
-2021-11-25,25,November,2021,23:45,22.81,93.5248,6.2, Myanmar (Burma): 19 Km SW of Falam,Myanmar
-2021-11-25,25,November,2021,23:45,22.81,93.5248,6.2, Myanmar (Burma): 19 Km SW of Falam,Myanmar
-2021-04-28,28,April,2021,02:24,26.75,92.42,6.0, Northeastern India,India
-2020-10-10,10,October,2020,17:38,24.56,93.58,5.4, Myanmar-India Border Region,Myanmar-India Border
-2020-08-30,30,August,2020,01:47,23.4098,92.0087,5.1, 33 Km N of Khagrachhari,Bangladesh
-2020-08-27,27,August,2020,12:07,23.06,93.29,5.3, Myanmar-India Border Region,Myanmar-India Border
-2020-06-21,21,June,2020,22:40,23.15,93.32,5.5, Myanmar-India Border Region,Myanmar-India Border
-2020-06-21,21,June,2020,10:46,23.89,93.14,5.2, Myanmar-India Border Region,Myanmar-India Border
-2020-01-23,23,January,2020,09:48,20.53,93.47,5.4, Myanmar ,Myanmar
-2019-04-15,15,April,2019,01:39,22.7,93.2,5.0, Myanmar-india Border Region ,Myanmar
-2018-11-10,10,November,2018,17:15,23.99,93.44,5.0, Myanmar-India Border Region,Myanmar-India Border
-2018-09-12,12,September,2018,04:50,26.37,90.18,5.3, Northeastern India,India
-2017-08-02,2,August,2017,18:18,24.22,93.48,5.2, Myanmar-India Border Region,Myanmar-India Border
-2017-02-24,24,February,2017,12:02,24.05,93.49,5.1, Myanmar-India Border Region,Myanmar-India Border
-2017-01-03,3,January,2017,09:09,24.01,91.96,5.5, India-Bangladesh Border Region,India-Bangladesh Border
-2016-04-05,5,April,2016,07:42,25.75,90.5,5.0, India-Bangladesh Border Region,India-Bangladesh Border
-2016-01-03,3,January,2016,23:05,24.78,93.58,6.7, Myanmar-India Border Region,Myanmar-India Border
-2015-06-28,28,June,2015,01:05,26.59,90.41,5.2, Northeastern India,India
-2015-04-27,27,April,2015,12:35,26.85,88.09,5.0, India-Bangladesh Border Region,India-Bangladesh Border
-2014-11-20,20,November,2014,18:14,23.47,93.47,5.7, Myanmar-India Border Region,Myanmar-India Border
-2014-09-09,9,September,2014,09:28,22.13,93.23,5.3, Myanmar-India Border Region,Myanmar-India Border
-2013-11-06,6,November,2013,04:16,26.3966,93.6705,5.4, 22km WNW of Barpathar,India
-2013-03-02,2,March,2013,01:30,24.6899,92.2155,5.5, 23km SW of Karimganj,India
-2012-10-02,2,October,2012,18:37,26.8469,92.7878,5.1, 14km ENE of Rangapara,India
-2012-05-11,11,May,2012,12:41,26.175,92.889,5.4, Assam,India
-2012-03-27,27,March,2012,23:40,26.087,87.777,5.0, Nepal-India Border Region,Nepal-India Border
-2010-09-10,10,September,2010,17:24,23.407,90.648,5.1, Bangladesh,Bangladesh
-2009-08-19,19,August,2009,10:45,26.556,92.47,5.0, Assam,India
-2007-11-07,7,November,2007,07:10,22.15,92.388,5.5, India-Bangladesh Border Region,India-Bangladesh Border
-2006-11-03,3,November,2006,14:43,22.104,93.351,5.0, Myanmar-India Border Region ,Myanmar
-2006-08-12,12,August,2006,20:46,24.662,92.71,5.0, India-Bangladesh Border Region,India-Bangladesh Border
-2006-02-23,23,February,2006,20:07,26.863,91.632,5.2, Assam,India
-2006-02-23,23,February,2006,20:04,26.912,91.705,5.8, Assam,India
-2005-02-15,15,February,2005,11:15,24.55,92.524,5.0, India-Bangladesh Border Region,India-Bangladesh Border
-2004-12-09,9,December,2004,08:49,24.757,92.539,5.4, India-Bangladesh Border Region,India-Bangladesh Border
-2003-07-27,27,July,2003,12:07,22.825,92.343,5.5, India-Bangladesh Border Region,India-Bangladesh Border
-2003-07-26,26,July,2003,23:18,22.854,92.306,5.7, India-Bangladesh Border Region,India-Bangladesh Border
-2002-10-16,16,October,2002,01:31,21.183,93.528,5.1, Myanmar ,Myanmar
-2001-10-19,19,October,2001,07:04,21.068,93.655,5.0, Myanmar ,Myanmar
-2000-11-13,13,November,2000,08:56,21.692,92.908,5.5, Myanmar-Bangladesh Border Region ,Myanmar
-1999-10-05,5,October,1999,17:04,26.26,91.926,5.2, Assam,India
-1999-07-22,22,July,1999,10:42,21.544,91.895,5.2, Near the Coast of Bangladesh,Bangladesh
-1998-12-02,2,December,1998,13:25,26.345,93.499,5.0, Assam,India
-1997-11-21,21,November,1997,11:23,22.212,92.702,6.1, India-Bangladesh Border Region,India-Bangladesh Border
-1997-07-31,31,July,1997,15:59,23.887,93.159,5.3, Myanmar-India Border Region,Myanmar-India Border
-1997-07-18,18,July,1997,19:39,26.811,91.793,5.0, Assam,India
-1997-05-08,8,May,1997,02:53,24.894,92.25,6.0, India-Bangladesh Border Region,India-Bangladesh Border
-1996-11-19,19,November,1996,00:12,24.498,92.641,5.4, India-Bangladesh Border Region,India-Bangladesh Border
-1993-02-15,15,February,1993,14:29,25.85,87.473,5.0, Bihar,India
-1992-12-12,12,December,1992,14:20,25.473,91.414,5.0, Meghalaya,India
-1992-07-09,9,July,1992,21:34,21.005,89.973,5.3, Near the Coast of Bangladesh,Bangladesh
-1992-02-25,25,February,1992,01:57,25.195,92.225,5.0, Meghalaya - Assam Region,India
-1991-12-20,20,December,1991,02:06,24.72,93.103,5.4, Manipur,India
-1991-08-07,7,August,1991,11:36,25.099,88.791,5.0, India-Bangladesh Border Region,India-Bangladesh Border
-1991-06-23,23,June,1991,10:04,26.637,93.187,5.3, Assam,India
-1990-12-29,29,December,1990,19:24,26.619,92.579,5.0, Assam,India
-1990-11-15,15,November,1990,03:28,23.895,92.937,5.2, India-Bangladesh Border Region,India-Bangladesh Border
-1990-09-02,2,September,1990,06:29,26.645,92.673,5.2, Assam,India
-1990-04-30,30,April,1990,01:55,26.437,93.318,5.3, Assam,India
-1990-02-22,22,February,1990,22:07,24.946,93.104,5.1, Manipur,India
-1989-06-12,12,June,1989,00:04,21.861,89.763,5.8, Near the Coast of Bangladesh,Bangladesh
-1989-04-13,13,April,1989,07:25,24.472,92.505,5.5, India-Bangladesh Border Region,India-Bangladesh Border
-1989-03-08,8,March,1989,20:02,26.987,92.751,5.1, Assam,India
-1988-11-27,27,November,1988,07:12,23.151,93.359,5.2, Myanmar-India Border Region,Myanmar-India Border
-1988-02-06,6,February,1988,14:50,24.688,91.57,5.9, India-Bangladesh Border Region,India-Bangladesh Border
-1987-09-06,6,September,1987,23:38,26.689,93.414,5.1, Assam,India
-1987-04-29,29,April,1987,00:15,22.457,93.593,5.3, Myanmar-India Border Region ,Myanmar
-1986-09-10,10,September,1986,07:50,25.385,92.077,5.2, Meghalaya - Assam Region,India
-1986-02-19,19,February,1986,17:34,25.136,91.184,5.3, Meghalaya,India
-1986-02-08,8,February,1986,00:28,23.903,92.987,5.4, India-Bangladesh Border Region,India-Bangladesh Border
-1986-01-07,7,January,1986,20:20,26.93,88.325,5.0, India-Bangladesh Border Region,India-Bangladesh Border
-1985-12-26,26,December,1985,18:04,27.13,92.071,5.0, Arunachal Pradesh,India
-1984-12-30,30,December,1984,23:33,24.641,92.891,6.0, India-Bangladesh Border Region,India-Bangladesh Border
-1984-09-30,30,September,1984,21:35,25.363,91.468,5.1, Meghalaya,India
-1984-09-22,22,September,1984,09:10,26.524,92.188,5.2, Assam,India
-1984-05-21,21,May,1984,09:59,23.721,91.588,5.3, Tripura,India
-1984-05-06,6,May,1984,15:19,24.257,93.545,6.0, Manipur,India
-1983-09-22,22,September,1983,23:51,20.503,92.995,5.1, Myanmar ,Myanmar
-1983-02-02,2,February,1983,20:44,26.894,92.893,5.2, Assam,India
-1982-12-30,30,December,1982,08:37,26.159,91.641,5.0, Assam,India
-1982-08-31,31,August,1982,10:42,25.381,91.472,5.0, Meghalaya,India
-1982-07-06,6,July,1982,06:13,25.91,90.315,5.1, Meghalaya,India
-1981-02-09,9,February,1981,15:49,27.038,89.752,5.1, Bhutan,Bhutan
-1980-10-30,30,October,1980,05:29,23.934,91.292,5.0, Tripura,India
-1979-06-19,19,June,1979,16:29,26.741,87.506,5.1, Nepal-India Border Region,Nepal-India Border
-1977-12-23,23,December,1977,21:00,23.636,92.386,5.1, India-Bangladesh Border Region,India-Bangladesh Border
-1977-11-13,13,November,1977,21:02,26.471,93.114,5.0, Assam,India
-1977-10-13,13,October,1977,11:32,23.484,93.353,5.2, Myanmar-India Border Region,Myanmar-India Border
-1977-05-12,12,May,1977,12:20,21.747,92.99,5.7, Myanmar-Bangladesh Border Region ,Myanmar
-1976-06-23,23,June,1976,15:38,21.415,88.79,5.3, Near the Coast of West Bengal,India
-1975-03-03,3,March,1975,19:24,24.135,93.548,5.0, Manipur,India
-1974-04-05,5,April,1974,03:46,21.325,93.536,5.0, Myanmar ,Myanmar
-1973-12-26,26,December,1973,01:42,22.484,93.363,5.1, Myanmar-India Border Region ,Myanmar
-1973-05-31,31,May,1973,23:39,24.281,93.548,5.9, Manipur,India
-1971-07-17,17,July,1971,15:00,26.469,93.127,5.5, Assam,India
-1964-09-01,1,September,1964,13:22,26.982,92.229,5.8, Assam,India
-1964-01-22,22,January,1964,15:58,22.307,93.594,6.2, Myanmar-India Border Region ,Myanmar
-1963-06-21,21,June,1963,15:26,24.905,92.167,5.7, India-Bangladesh Border Region,India-Bangladesh Border
-1963-06-19,19,June,1963,10:47,25.0,92.031,5.6, India-Bangladesh Border Region,India-Bangladesh Border
-1960-07-29,29,July,1960,10:42,26.488,90.297,5.6, Assam,India
-1959-11-02,2,November,1959,13:15,21.544,92.426,5.7, Myanmar-Bangladesh Border Region,Myanmar-Bangladesh Border
-1959-05-24,24,May,1959,11:28,26.147,90.19,5.4, Assam,India
-1956-06-12,12,June,1956,03:12,25.03,90.853,5.5, Meghalaya,India
-1955-12-14,14,December,1955,10:51,21.819,92.656,6.2, Myanmar-Bangladesh Border Region ,Myanmar
-1951-04-07,7,April,1951,20:29,25.949,90.575,5.8, Meghalaya,India
-1950-12-29,29,December,1950,22:35,23.854,91.844,5.9, Tripura,India
-1950-08-15,15,August,1950,21:42,25.343,92.944,6.0, Meghalaya - Assam Region,India
-1930-07-02,2,July,1930,21:03,25.929,90.177,7.1, Meghalaya,India
-1923-09-09,9,September,1923,22:03,24.937,90.721,6.8, Bangladesh,Bangladesh
-1918-07-08,8,July,1918,10:22,24.599,90.853,7.2, Bangladesh,Bangladesh
+"Jun 16, 2023",16,June,2023,04:46,24.7503,92.0418,5.0, Near Shillong,India
+"Nov 25, 2021",25,November,2021,23:45,22.81,93.5248,6.2, Myanmar (Burma): 19 Km SW of Falam,Myanmar
+"Apr 28, 2021",28,April,2021,02:24,26.75,92.42,6.0, Northeastern India,India
+"Oct 10, 2020",10,October,2020,17:38,24.56,93.58,5.4, Myanmar-India Border Region,Myanmar-India Border
+"Aug 30, 2020",30,August,2020,01:47,23.4098,92.0087,5.1, 33 Km N of Khagrachhari,Bangladesh
+"Aug 27, 2020",27,August,2020,12:07,23.06,93.29,5.3, Myanmar-India Border Region,Myanmar-India Border
+"Jun 21, 2020",21,June,2020,22:40,23.15,93.32,5.5, Myanmar-India Border Region,Myanmar-India Border
+"Jun 21, 2020",21,June,2020,10:46,23.89,93.14,5.2, Myanmar-India Border Region,Myanmar-India Border
+"Jan 23, 2020",23,January,2020,09:48,20.53,93.47,5.4, Myanmar ,Myanmar
+"Apr 15, 2019",15,April,2019,01:39,22.7,93.2,5.0, Myanmar-india Border Region ,Myanmar
+"Nov 10, 2018",10,November,2018,17:15,23.99,93.44,5.0, Myanmar-India Border Region,Myanmar-India Border
+"Sep 12, 2018",12,September,2018,04:50,26.37,90.18,5.3, Northeastern India,India
+"Aug 2, 2017",2,August,2017,18:18,24.22,93.48,5.2, Myanmar-India Border Region,Myanmar-India Border
+"Feb 24, 2017",24,February,2017,12:02,24.05,93.49,5.1, Myanmar-India Border Region,Myanmar-India Border
+"Jan 3, 2017",3,January,2017,09:09,24.01,91.96,5.5, India-Bangladesh Border Region,India-Bangladesh Border
+"Apr 5, 2016",5,April,2016,07:42,25.75,90.5,5.0, India-Bangladesh Border Region,India-Bangladesh Border
+"Jan 3, 2016",3,January,2016,23:05,24.78,93.58,6.7, Myanmar-India Border Region,Myanmar-India Border
+"Jun 28, 2015",28,June,2015,01:05,26.59,90.41,5.2, Northeastern India,India
+"Apr 27, 2015",27,April,2015,12:35,26.85,88.09,5.0, India-Bangladesh Border Region,India-Bangladesh Border
+"Nov 20, 2014",20,November,2014,18:14,23.47,93.47,5.7, Myanmar-India Border Region,Myanmar-India Border
+"Sep 9, 2014",9,September,2014,09:28,22.13,93.23,5.3, Myanmar-India Border Region,Myanmar-India Border
+"Nov 6, 2013",6,November,2013,04:16,26.3966,93.6705,5.4, 22km WNW of Barpathar,India
+"Mar 2, 2013",2,March,2013,01:30,24.6899,92.2155,5.5, 23km SW of Karimganj,India
+"Oct 2, 2012",2,October,2012,18:37,26.8469,92.7878,5.1, 14km ENE of Rangapara,India
+"May 11, 2012",11,May,2012,12:41,26.175,92.889,5.4, Assam,India
+"Mar 27, 2012",27,March,2012,23:40,26.087,87.777,5.0, Nepal-India Border Region,Nepal-India Border
+"Sep 10, 2010",10,September,2010,17:24,23.407,90.648,5.1, Bangladesh,Bangladesh
+"Aug 19, 2009",19,August,2009,10:45,26.556,92.47,5.0, Assam,India
+"Nov 7, 2007",7,November,2007,07:10,22.15,92.388,5.5, India-Bangladesh Border Region,India-Bangladesh Border
+"Nov 3, 2006",3,November,2006,14:43,22.104,93.351,5.0, Myanmar-India Border Region ,Myanmar
+"Aug 12, 2006",12,August,2006,20:46,24.662,92.71,5.0, India-Bangladesh Border Region,India-Bangladesh Border
+"Feb 23, 2006",23,February,2006,20:07,26.863,91.632,5.2, Assam,India
+"Feb 23, 2006",23,February,2006,20:04,26.912,91.705,5.8, Assam,India
+"Feb 15, 2005",15,February,2005,11:15,24.55,92.524,5.0, India-Bangladesh Border Region,India-Bangladesh Border
+"Dec 9, 2004",9,December,2004,08:49,24.757,92.539,5.4, India-Bangladesh Border Region,India-Bangladesh Border
+"Jul 27, 2003",27,July,2003,12:07,22.825,92.343,5.5, India-Bangladesh Border Region,India-Bangladesh Border
+"Jul 26, 2003",26,July,2003,23:18,22.854,92.306,5.7, India-Bangladesh Border Region,India-Bangladesh Border
+"Oct 16, 2002",16,October,2002,01:31,21.183,93.528,5.1, Myanmar ,Myanmar
+"Oct 19, 2001",19,October,2001,07:04,21.068,93.655,5.0, Myanmar ,Myanmar
+"Nov 13, 2000",13,November,2000,08:56,21.692,92.908,5.5, Myanmar-Bangladesh Border Region ,Myanmar
+"Oct 5, 1999",5,October,1999,17:04,26.26,91.926,5.2, Assam,India
+"Jul 22, 1999",22,July,1999,10:42,21.544,91.895,5.2, Near the Coast of Bangladesh,Bangladesh
+"Dec 2, 1998",2,December,1998,13:25,26.345,93.499,5.0, Assam,India
+"Nov 21, 1997",21,November,1997,11:23,22.212,92.702,6.1, India-Bangladesh Border Region,India-Bangladesh Border
+"Jul 31, 1997",31,July,1997,15:59,23.887,93.159,5.3, Myanmar-India Border Region,Myanmar-India Border
+"Jul 18, 1997",18,July,1997,19:39,26.811,91.793,5.0, Assam,India
+"May 8, 1997",8,May,1997,02:53,24.894,92.25,6.0, India-Bangladesh Border Region,India-Bangladesh Border
+"Nov 19, 1996",19,November,1996,00:12,24.498,92.641,5.4, India-Bangladesh Border Region,India-Bangladesh Border
+"Feb 15, 1993",15,February,1993,14:29,25.85,87.473,5.0, Bihar,India
+"Dec 12, 1992",12,December,1992,14:20,25.473,91.414,5.0, Meghalaya,India
+"Jul 9, 1992",9,July,1992,21:34,21.005,89.973,5.3, Near the Coast of Bangladesh,Bangladesh
+"Feb 25, 1992",25,February,1992,01:57,25.195,92.225,5.0, Meghalaya - Assam Region,India
+"Dec 20, 1991",20,December,1991,02:06,24.72,93.103,5.4, Manipur,India
+"Aug 7, 1991",7,August,1991,11:36,25.099,88.791,5.0, India-Bangladesh Border Region,India-Bangladesh Border
+"Jun 23, 1991",23,June,1991,10:04,26.637,93.187,5.3, Assam,India
+"Dec 29, 1990",29,December,1990,19:24,26.619,92.579,5.0, Assam,India
+"Nov 15, 1990",15,November,1990,03:28,23.895,92.937,5.2, India-Bangladesh Border Region,India-Bangladesh Border
+"Sep 2, 1990",2,September,1990,06:29,26.645,92.673,5.2, Assam,India
+"Apr 30, 1990",30,April,1990,01:55,26.437,93.318,5.3, Assam,India
+"Feb 22, 1990",22,February,1990,22:07,24.946,93.104,5.1, Manipur,India
+"Jun 12, 1989",12,June,1989,00:04,21.861,89.763,5.8, Near the Coast of Bangladesh,Bangladesh
+"Apr 13, 1989",13,April,1989,07:25,24.472,92.505,5.5, India-Bangladesh Border Region,India-Bangladesh Border
+"Mar 8, 1989",8,March,1989,20:02,26.987,92.751,5.1, Assam,India
+"Nov 27, 1988",27,November,1988,07:12,23.151,93.359,5.2, Myanmar-India Border Region,Myanmar-India Border
+"Feb 6, 1988",6,February,1988,14:50,24.688,91.57,5.9, India-Bangladesh Border Region,India-Bangladesh Border
+"Sep 6, 1987",6,September,1987,23:38,26.689,93.414,5.1, Assam,India
+"Apr 29, 1987",29,April,1987,00:15,22.457,93.593,5.3, Myanmar-India Border Region ,Myanmar
+"Sep 10, 1986",10,September,1986,07:50,25.385,92.077,5.2, Meghalaya - Assam Region,India
+"Feb 19, 1986",19,February,1986,17:34,25.136,91.184,5.3, Meghalaya,India
+"Feb 8, 1986",8,February,1986,00:28,23.903,92.987,5.4, India-Bangladesh Border Region,India-Bangladesh Border
+"Jan 7, 1986",7,January,1986,20:20,26.93,88.325,5.0, India-Bangladesh Border Region,India-Bangladesh Border
+"Dec 26, 1985",26,December,1985,18:04,27.13,92.071,5.0, Arunachal Pradesh,India
+"Dec 30, 1984",30,December,1984,23:33,24.641,92.891,6.0, India-Bangladesh Border Region,India-Bangladesh Border
+"Sep 30, 1984",30,September,1984,21:35,25.363,91.468,5.1, Meghalaya,India
+"Sep 22, 1984",22,September,1984,09:10,26.524,92.188,5.2, Assam,India
+"May 21, 1984",21,May,1984,09:59,23.721,91.588,5.3, Tripura,India
+"May 6, 1984",6,May,1984,15:19,24.257,93.545,6.0, Manipur,India
+"Sep 22, 1983",22,September,1983,23:51,20.503,92.995,5.1, Myanmar ,Myanmar
+"Feb 2, 1983",2,February,1983,20:44,26.894,92.893,5.2, Assam,India
+"Dec 30, 1982",30,December,1982,08:37,26.159,91.641,5.0, Assam,India
+"Aug 31, 1982",31,August,1982,10:42,25.381,91.472,5.0, Meghalaya,India
+"Jul 6, 1982",6,July,1982,06:13,25.91,90.315,5.1, Meghalaya,India
+"Feb 9, 1981",9,February,1981,15:49,27.038,89.752,5.1, Bhutan,Bhutan
+"Oct 30, 1980",30,October,1980,05:29,23.934,91.292,5.0, Tripura,India
+"Jun 19, 1979",19,June,1979,16:29,26.741,87.506,5.1, Nepal-India Border Region,Nepal-India Border
+"Dec 23, 1977",23,December,1977,21:00,23.636,92.386,5.1, India-Bangladesh Border Region,India-Bangladesh Border
+"Nov 13, 1977",13,November,1977,21:02,26.471,93.114,5.0, Assam,India
+"Oct 13, 1977",13,October,1977,11:32,23.484,93.353,5.2, Myanmar-India Border Region,Myanmar-India Border
+"May 12, 1977",12,May,1977,12:20,21.747,92.99,5.7, Myanmar-Bangladesh Border Region ,Myanmar
+"Jun 23, 1976",23,June,1976,15:38,21.415,88.79,5.3, Near the Coast of West Bengal,India
+"Mar 3, 1975",3,March,1975,19:24,24.135,93.548,5.0, Manipur,India
+"Apr 5, 1974",5,April,1974,03:46,21.325,93.536,5.0, Myanmar ,Myanmar
+"Dec 26, 1973",26,December,1973,01:42,22.484,93.363,5.1, Myanmar-India Border Region ,Myanmar
+"May 31, 1973",31,May,1973,23:39,24.281,93.548,5.9, Manipur,India
+"Jul 17, 1971",17,July,1971,15:00,26.469,93.127,5.5, Assam,India
+"Sep 1, 1964",1,September,1964,13:22,26.982,92.229,5.8, Assam,India
+"Jan 22, 1964",22,January,1964,15:58,22.307,93.594,6.2, Myanmar-India Border Region ,Myanmar
+"Jun 21, 1963",21,June,1963,15:26,24.905,92.167,5.7, India-Bangladesh Border Region,India-Bangladesh Border
+"Jun 19, 1963",19,June,1963,10:47,25.0,92.031,5.6, India-Bangladesh Border Region,India-Bangladesh Border
+"Jul 29, 1960",29,July,1960,10:42,26.488,90.297,5.6, Assam,India
+"Nov 2, 1959",2,November,1959,13:15,21.544,92.426,5.7, Myanmar-Bangladesh Border Region,Myanmar-Bangladesh Border
+"May 24, 1959",24,May,1959,11:28,26.147,90.19,5.4, Assam,India
+"Jun 12, 1956",12,June,1956,03:12,25.03,90.853,5.5, Meghalaya,India
+"Dec 14, 1955",14,December,1955,10:51,21.819,92.656,6.2, Myanmar-Bangladesh Border Region ,Myanmar
+"Apr 7, 1951",7,April,1951,20:29,25.949,90.575,5.8, Meghalaya,India
+"Dec 29, 1950",29,December,1950,22:35,23.854,91.844,5.9, Tripura,India
+"Aug 15, 1950",15,August,1950,21:42,25.343,92.944,6.0, Meghalaya - Assam Region,India
+"Jul 2, 1930",2,July,1930,21:03,25.929,90.177,7.1, Meghalaya,India
+"Sep 9, 1923",9,September,1923,22:03,24.937,90.721,6.8, Bangladesh,Bangladesh
+"Jul 8, 1918",8,July,1918,10:22,24.599,90.853,7.2, Bangladesh,Bangladesh

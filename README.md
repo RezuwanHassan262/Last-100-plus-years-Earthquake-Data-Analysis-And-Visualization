@@ -9,7 +9,7 @@ The source of the data was this [website](https://www.volcanodiscovery.com/earth
 This project aimed to scrape and extract data for data analysis on Earthquake data encompassing Bangladesh and other neighboring countries like India, Myanmar & Nepal. This analysis was done to get insights into the data like the magnitudes of the Earthquakes that took place over the last few years, where, occurred mostly in which month and in which region, and more.
 The insights from the extracted data were later visualized using the popular data visualization tool, Tableau.
 
-Note: This website only shows earthquakes since 1900 from minimum magnitude of 5 or higher.
+Note: This website only shows earthquakes since 1900 starting from a minimum magnitude of 5 or higher.
 
 
 Here's the link to the Tableau Dashboard for the scraped data: Earthquake Data Tableau Dashboard [14 Sheets & 8 Dashboards](https://public.tableau.com/app/profile/md.reuzwan.hassan/viz/Last100yearsEarthquakeData-Analysis/TotalEarthquakeinBangladeshIndiaNepalMyanmarBINMsub-regionMap)

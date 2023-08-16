@@ -34,8 +34,8 @@ CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Ea
 ![Earthquake magnitude over time in the last 100+ years.png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/main/dashboard_images/Earthquake%20magnitude%20over%20time%20in%20the%20last%20100%2B%20years.png) 
 [Dashboard Link](https://public.tableau.com/app/profile/md.reuzwan.hassan/viz/Last100yearsEarthquakeData-Analysis/Earthquakemagnitudeovertimeinthelast100years)
 
-1. The highest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 7.2 in magnitude on 8th July 1918. It took place in Bangladesh.
-2. The lowest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Nepal_Myanmar region was 5 in magnitude which took place in multiple regions of BIBM, But mostly in India and India-Bangladesh border region.
+1. The highest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Bhutan-Myanmar region was 7.2 in magnitude on 8th July 1918. It took place in Bangladesh.
+2. The lowest recorded earthquake in the last hundred-plus years in this Bangladesh-India-Bhutan-Myanmar region according to the website is 5 in magnitude which took place in multiple regions of BIBM, But mostly in India and India-Bangladesh border region.
 
 ![Regionwise Earthquake occurance frequency over time in the last 100+ years.png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/main/dashboard_images/Regionwise%20Earthquake%20occurance%20frequency%20over%20time%20in%20the%20last%20100%2B%20years.png)
 [Dashboard Link](https://public.tableau.com/views/Last100yearsEarthquakeData-Analysis/RegionwiseEarthquakeoccurancefrequencyovertimeinthelast100years?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -47,26 +47,26 @@ CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Ea
 ![Region wise Earthquake occurance frequency over time in the last 100+ years monthly categorized.png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/main/dashboard_images/Region%20wise%20Earthquake%20occurance%20frequency%20over%20time%20in%20the%20last%20100%2B%20years%20monthly%20categorized.png)
 [Dashboard Link](https://public.tableau.com/views/Last100yearsEarthquakeData-Analysis/RegionwiseEarthquakeoccurancefrequencyovertimeinthelast100yearsmonthlycategorized?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-6. In BIBM region, earthquakes mostly took place in February, September & December. All 7 in number and all in India.
-7. In Bangladesh region, earthquakes mostly took place in November in the India-Bangladesh border region. 4 in quantity.
+6. In the BIBM region, earthquakes mostly took place in February, September & December. All 7 in number and all in India.
+7. In the Bangladesh region, earthquakes mostly took place in November in the India-Bangladesh border region. 4 in quantity.
 
 ![Region wise Earthquake occurance frequency over time in the last 100+ years monthly categorized (Total).png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/main/dashboard_images/Region%20wise%20Earthquake%20occurance%20frequency%20over%20time%20in%20the%20last%20100%2B%20years%20monthly%20categorized%20(Total).png)
 [Dashboard Link](https://public.tableau.com/views/Last100yearsEarthquakeData-Analysis/RegionwiseEarthquakeoccurancefrequencyovertimeinthelast100yearsmonthlycategorizedTotal?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-8. In BIBM region, a maximum number of earthquakes took place in November. 13 in total.
-9. In Bangladesh region, a maximum number of earthquakes took place in July & November Both 5 in quantity.
+8. In the BIBM region, a maximum number of earthquakes took place in November. 13 in total.
+9. In the Bangladesh region, a maximum number of earthquakes took place in July & November Both 5 in quantity.
 
 ![Probable Earthquake occurring time in a day.png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/main/dashboard_images/Probable%20Earthquake%20occurring%20time%20in%20a%20day.png)
 [Dashboard Link](https://public.tableau.com/views/Last100yearsEarthquakeData-Analysis/ProbableEarthquakeoccurringtimeinaday?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-10. In BIBM region, Earthquakes mostly took place around 20.00 GMT, All in India and total of 5 in quantity.
-11. In Bangladesh region, Earthquakes mostly took place around 7.00 GMT & 11.00 GMt, All in the India-Bangladesh border region & both 3 in quantity.
+10. In the BIBM region, Earthquakes mostly took place around 20.00 GMT, All in India, and a total of 5 in quantity.
+11. In the Bangladesh region, Earthquakes mostly took place around 7.00 GMT & 11.00 GMT, All in the India-Bangladesh border region & both 3 in quantity.
 
 ![Probable Earthquake occurance time in a month.png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/main/dashboard_images/Probable%20Earthquake%20occurance%20time%20in%20a%20month.png)
 [Dashboard Link](https://public.tableau.com/views/Last100yearsEarthquakeData-Analysis/ProbableEarthquakeoccurancetimeinamonth?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-12. In BIBM region, Earthquakes mostly took place on the 2nd day of the month, 6 in quantity.
-13. In Bangladesh region, Earthquakes mostly took place on the 7th day of the month, 3 in quantity.
+12. In the BIBM region, Earthquakes mostly took place on the 2nd day of the month, 6 in quantity.
+13. In the Bangladesh region, Earthquakes mostly took place on the 7th day of the month, 3 in quantity.
 
 ![Location wise Earthquake count (BIBM).png](https://raw.githubusercontent.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/main/dashboard_images/Location%20wise%20Earthquake%20count%20(BINM).png)
 [Dashboard Link](https://public.tableau.com/views/Last100yearsEarthquakeData-Analysis/LocationwiseEarthquakecountBINM?:language=en-US&:display_count=n&:origin=viz_share_link)

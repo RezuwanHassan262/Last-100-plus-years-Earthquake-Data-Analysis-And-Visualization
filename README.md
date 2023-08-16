@@ -19,13 +19,14 @@ CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Ea
 
 | Serial        | Date             | Day    | Month  | Year        | Time (GMT)	  | Latitude (N)  | Longitude (E) | Magnitude  | Location                           | Country              |
 | ------------- |:----------------:|:-------|:------:|:-----------:|:------------:|:-------------:|:-------------:|:----------:|:----------------------------------:| --------------------:|	
-| 0             |2023-06-16        |16      |June    |2023	       |04:46         |24.75          |	92.0418       |5.0         |Near Shillong                       | India                |
+| 0             |Jun 16, 2023      |16      |June    |2023	       |04:46         |24.75          |	92.0418       |5.0         |Near Shillong                       | India                |
 | 1             |Nov 25, 2021	   |25      |November|2021	       |23:45         |22.81          |	93.5248       |6.2         |Myanmar (Burma): 19 Km SW of Falam	| Myanmar              |
 | 2             |Apr 28, 2021	   |28      |April   |2021	       |2:24          |26.75          |	92.42         |6.0         |Northeastern India                	| India                |
 | 3             |Oct 10, 2020	   |10      |October |2020	       |17:38	      |24.56	      |93.58	      |5.4	       |Myanmar-India Border Region	        |Myanmar-India Border  |
 | 4	            |Aug 30, 2020	   |30      |August	 |2020	       |1:47	      |23.4098	      |92.0087	      |5.1	       |33 Km N of Khagrachhari	            |Bangladesh            |
 | 5             |Aug 27, 2020	   |27      |August	 |2020	       |12:07         |23.06          |93.29          |5.3         |Myanmar-India Border Region         |Myanmar-India Border  |
 | 6             |Jun 21, 2020	   |21      |June    |2020         |22:40         |23.15          |93.32          |5.5         |Myanmar-India Border Region	        |Myanmar-India Border  |
+
 
 
 ## Findings and Observations from the Dashboard

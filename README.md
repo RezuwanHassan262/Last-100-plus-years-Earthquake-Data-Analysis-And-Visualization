@@ -15,7 +15,7 @@ Here's the link to the Tableau Dashboard for the scraped data: Earthquake Data T
 
 ## CSV File (Data Example):
 
-CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/blob/main/csv_files/EarthquakeData.csv)
+CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Scraping-Analysis-And-Visualization/blob/main/EarthquakeData.csv)
 
 | Serial        | Date           | Day    | Month  | Year        | Time (GMT)	  | Latitude (N)  | Longitude (E) | Magnitude  | Location                           | Country              |
 | ------------- |:--------------:|:-------|:------:|:-----------:|:------------:|:-------------:|:-------------:|:----------:|:----------------------------------:| --------------------:|	
@@ -103,6 +103,16 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
- 5. The csv file named 'EarthquakeData.csv' will be generated within the project directory.
+5. Run the scrapper:
+
+```
+python Last-100-plus-years-Earthquake-Data-Analysis-And-Visualization/scraper.py 
+```
+
+6. The CSV file named 'EarthquakeData.csv' will be generated within the project directory.
+
+
+
+    
 
 

@@ -4,7 +4,7 @@ Here, I did some data analysis using the last 100+ years of Earthquake data cove
 This was a web scraping project along with dashboard visualization on Tableau.
 
 I scraped and extracted data from a website using Python with the help of Request and BeautifulSoup libraries.
-The source of the data was this [website](https://www.volcanodiscovery.com/earthquakes/bangladesh/largest.html).
+The source of the data was this [website](https://www.volcanodiscovery.com/earthquakes/bangladesh/largest.html). [Upto Jun 16, 2023]
 
 This project aimed to scrape and extract data for data analysis on Earthquake data encompassing Bangladesh and other neighboring countries like India, Myanmar & Bhutan. This analysis was done to get insights into the data like the magnitudes of the Earthquakes that took place over the last century since 1900, where, occurred mostly in which month and in which region, and more.
 The insights from the extracted data were later visualized using the popular data visualization tool, Tableau.
